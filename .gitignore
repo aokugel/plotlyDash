@@ -137,6 +137,6 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
-life-expectancy-vs-health-expenditure.csv
+intro_bees.csv
 intro.py
 app.py
