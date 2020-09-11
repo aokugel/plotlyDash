@@ -136,7 +136,3 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
-
-intro_bees.csv
-intro.py
-app.py
